@@ -1,0 +1,8 @@
+- added license, finished readme and sniffer.cpp
+- minor changes in packet_handler()
+- minor changes in packet_output() + added tests
+- added finction to print out data of packets
+- finished filter, added packet handler(ipv4,ipv6,arp), added timestamp
+- fixed Makefile, added list of interfaces, filter and pcap handling
+- added Makefile and parsing of arguments
+- starting commit

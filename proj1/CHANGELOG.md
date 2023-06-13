@@ -1,0 +1,7 @@
+- finished client, added readme and license
+- finished udp part
+- fixed udp connection
+- added udp, fixed tcp, fixed control of arguments
+- minor changes
+- added tcp and makefile
+- starting commit
